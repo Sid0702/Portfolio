@@ -49,7 +49,7 @@ This project is a personal portfolio website created to showcase my skills, proj
 ![Skills](https://github.com/Sid0702/Portfolio/blob/main/images/Screenshot%202024-06-24%20131742.png)
 
 ### Contact
-![Contact](./mnt/data/Screenshot%202024-06-24%20131757.png)
+![Contact](https://github.com/Sid0702/Portfolio/blob/main/images/Screenshot%202024-06-24%20131757.png)
 
 ## How to Run
 1. Clone the repository:
