@@ -43,7 +43,7 @@ This project is a personal portfolio website created to showcase my skills, proj
 
 ## Screenshots
 ### Home
-![Home](./mnt/data/Screenshot%202024-06-24%20131657.png)
+![Home](https://github.com/Sid0702/Portfolio/blob/main/images/Screenshot%202024-06-24%20131657.png)
 
 ### Skills
 ![Skills](./mnt/data/Screenshot%202024-06-24%20131742.png)
